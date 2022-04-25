@@ -1,17 +1,16 @@
-Hi 👋 My name is Alex Gheorghe
+Hi 👋 I'm Alex Gheorghe
 ==============================
 
 Software developer 👨‍💻 in progress.
 -------------------------------------
+I love learning new technologies to increase my personal and professional development and I have a baby plant called Lola 🌳 :)
 
-Motivado en seguir aprendiendo nuevas tecnologías y experiencias para así crecer en el mundo profesional.
-
-* 🌍  I'm based in Madrid
-* ✉️  You can contact me at [alex@digitalsynware.com](mailto:alex@digitalsynware.com)
+* 🌍  I'm based in Madrid 🇪🇸 
+* ✉️  You can contact me at [alex@digitalsynware.com](mailto:alex@digitalsynware.com)
 * 🚀  I'm currently working on [DigitalSynware SL](http://digitalsynware.com)
-* ⚡  Studying at Universidad Europea (Alcobendas, Madrid)
+* 📚  Studying at [Universidad Europea](https://universidadeuropea.com/) (Alcobendas, Madrid)
 
-### Skills
+### Skills 💻
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -26,13 +25,11 @@ Motivado en seguir aprendiendo nuevas tecnologías y experiencias para así crec
 </p>
 
 
-### Socials
+### Socials 🌍
 
 <p align="left"> <a href="https://discord.com/users/250995193359106048" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/alexeses" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alexeses" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/soyalexes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### GitHub Stats 🤩
 
 <a href="http://www.github.com/alexeses"><img src="https://github-readme-stats.vercel.app/api?username=alexeses&show_icons=true&hide=stars,prs,&count_private=true&title_color=84cc16&text_color=facc15&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="alexeses's GitHub stats" /></a>
 
