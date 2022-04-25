@@ -5,7 +5,7 @@ Software developer 👨‍💻 in progress.
 -------------------------------------
 I love learning new technologies to increase my personal and professional development and I have a baby plant called Lola 🌳 :)
 
-* 🌍  I'm based in Madrid 🇪🇸 
+* 🌍  I'm based in Madrid 🇪🇸, speak 🇬🇧 and 🇷🇴
 * ✉️  You can contact me at [alex@digitalsynware.com](mailto:alex@digitalsynware.com)
 * 🚀  I'm currently working on [DigitalSynware SL](http://digitalsynware.com)
 * 📚  Studying at [Universidad Europea](https://universidadeuropea.com/) (Alcobendas, Madrid)
