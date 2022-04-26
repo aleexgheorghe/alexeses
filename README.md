@@ -33,7 +33,7 @@ I love learning new technologies to increase my personal and professional develo
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/5c8959dc0cc356ddea45b5ebce0dd81ad08fbf99/res/vs-icon.svg" width="40" height="40" alt="VS Code" /></a>
     <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/7c8f37fe53687952b9af77ef73f2971906acb5da/res/intellij.svg" width="40" height="40" alt="IntelliJ" /></a>
-    <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/7c8f37fe53687952b9af77ef73f2971906acb5da/res/intellij.svg" width="40" height="40" alt="GitHub" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/fe499eb55e30c2764ee658404b7af90cb40376f5/res/github.svg" width="40" height="40" alt="GitHub" /></a>
 </p>
 
 
