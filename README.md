@@ -28,14 +28,12 @@ I love learning new technologies to increase my personal and professional develo
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
 </p>
 
-### Environment 💻
+### Environment 🎧
 
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/5c8959dc0cc356ddea45b5ebce0dd81ad08fbf99/res/vs-icon.svg" width="40" height="40" alt="VS Code" /></a>
     <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/7c8f37fe53687952b9af77ef73f2971906acb5da/res/intellij.svg" width="40" height="40" alt="IntelliJ" /></a>
-    <!-- <img alt="VSCode" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" >
-    <img alt="IntelliJ Idea" width="26px" src="https://i.imgur.com/Agb22jo.png" > 
-    <img alt="GitHub" width="26px" src="https://github.com/fluidicon.png" > -->
+    <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/7c8f37fe53687952b9af77ef73f2971906acb5da/res/intellij.svg" width="40" height="40" alt="GitHub" /></a>
 </p>
 
 
