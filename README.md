@@ -31,12 +31,10 @@ I love learning new technologies to increase my personal and professional develo
 ### Environment 💻
 
 <p align="left">
-    <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a></p>
-
-    <img alt="VSCode" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" >
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/5c8959dc0cc356ddea45b5ebce0dd81ad08fbf99/res/vs-icon.svg" width="40" height="40" alt="VS Code" /></a>
+    <!-- <img alt="VSCode" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" >
     <img alt="IntelliJ Idea" width="26px" src="https://i.imgur.com/Agb22jo.png" >
-    <img alt="GitHub" width="26px" src="https://github.com/fluidicon.png" >
+    <img alt="GitHub" width="26px" src="https://github.com/fluidicon.png" > -->
 </p>
 
 
