@@ -2,7 +2,7 @@ Hi 👋 I'm Alex Gheorghe
 ==============================
 
 Software developer 👨‍💻 in progress.
--------------------------------------
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 I love learning new technologies to increase my personal and professional development and I have a baby plant called Lola 🌳 :)
 
 * 🌍  I'm based in Madrid 🇪🇸, speak 🇬🇧 and 🇷🇴
