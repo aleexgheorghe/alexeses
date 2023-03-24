@@ -38,10 +38,10 @@ Self-taught and technology enthusiast. I enjoy learning new technologies to cont
 - 📟 For feedback, project proposals, and any inquiries, feel free to send a message to my email address: <acalin-b@student.42madrid.com>
 
 ### What I am currently doing 🥸: <img width="150" alt="memoji of pgomez-a" align = "right" src="https://user-images.githubusercontent.com/46347629/227481270-fb274901-ad0a-4dd6-a006-e04f3c752292.png">
-Si has leído mi biografía te habrás dado cuenta que doy una persona autodidacta con muchas ganas de trabajar en nuevos proyectos que realmente me apasionen dando lo mejor de mi en todo momento. Actualmente compagino mi trabajo con ser estudiante de 42 Network una innovadora escuela de programación y un grado técnico en desarrollo de aplicaciones.
+If you have read my bio, you may have noticed that I am a self-taught individual with a strong desire to work on new projects that truly excite me, always striving to give my best effort. Currently, I am balancing my work with my studies at 42 Network, an innovative programming school, and pursuing a Technical degree in Application Development.
 
 ### GitHub Stats 🤩
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexeses&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=GitHub Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexeses&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeses&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
