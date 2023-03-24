@@ -1,52 +1,47 @@
-Hi 👋 I'm Alex Gheorghe
+Hi, I'm Alex 👋 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alexeses.alexeses&right_color=forestgreen&left_text=Viewers"/>
 ==============================
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="52" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="52" alt="gradle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" width="52" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+</div>
+Self-taught and technology enthusiast. I enjoy learning new technologies to continuously increase my knowledge and improve my skills in order to apply them to my daily work. I always strive to challenge myself and push my limits to continue improving and growing professionally.
 
-### Software developer 👨‍💻 in progress.
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-I love learning new technologies to increase my personal and professional development and I have a baby plant called Lola 🌳 :)
+<a><img width="150" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/46347629/227374546-2f8d8e42-2a7a-4ae7-a082-f9a05be47168.png"></a>
 
-* 🌍  I'm based in Madrid 🇪🇸, speak 🇬🇧 and 🇷🇴
-* ✉️  You can contact me at [alex@digitalsynware.com](mailto:alex@digitalsynware.com)
-* 📚  Studying at [Universidad Europea](https://universidadeuropea.com/) (Alcobendas, Madrid)
+🌍 I am currently pursuing a Technical degree in **Application Development**.
+🔭 I am currently delving into **Python** and **Rust** to expand my skill set.
+👾 I possess experience in **Java**, **C**, **Networks**, **Unix**, **Docker**, and **Git**, and have successfully applied them in various projects.
+🛸 I am actively seeking opportunities to contribute to **Open Source projects** and collaborate with the community.
 
-### Skills 💻
+### Contact methods 🤯:
+- 🧠 Connect with a driven junior programmer who is constantly learning by visiting my <a href="https://www.linkedin.com/in/alexghc/">LinkedIn profile.</a>
+- 📟 For feedback, project proposals, and any inquiries, feel free to send a message to my email address: <acalin-b@student.42madrid.com>
 
-<p align="left">
-    <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://www.oracle.com/uk/index.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-    <a href="https://www.sketch.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a> 
-    <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" /></a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-</p>
-
-### Environment 🎧
-
-<p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/5c8959dc0cc356ddea45b5ebce0dd81ad08fbf99/res/vs-icon.svg" width="40" height="40" alt="VS Code" /></a>
-    <a href="https://www.jetbrains.com/es-es/idea/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/7c8f37fe53687952b9af77ef73f2971906acb5da/res/intellij.svg" width="40" height="40" alt="IntelliJ" /></a>
-    <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/alexeses/alexeses/fe499eb55e30c2764ee658404b7af90cb40376f5/res/github.svg" width="40" height="40" alt="GitHub" /></a>
-</p>
-
-
-### Socials 🌍
-
-<p align="left">
-    <a href="https://discord.com/users/250995193359106048" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-    <a href="https://www.github.com/alexeses" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/alexeses" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-    <a href="https://www.twitter.com/soyalexes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+### What I am currently doing 🥸: <img width="150" alt="memoji of pgomez-a" align = "right" src="https://user-images.githubusercontent.com/46347629/227481270-fb274901-ad0a-4dd6-a006-e04f3c752292.png">
+Si has leído mi biografía te habrás dado cuenta que doy una persona autodidacta con muchas ganas de trabajar en nuevos proyectos que realmente me apasionen dando lo mejor de mi en todo momento. Actualmente compagino mi trabajo con ser estudiante de 42 Network una innovadora escuela de programación y un grado técnico en desarrollo de aplicaciones.
 
 ### GitHub Stats 🤩
-
-<a href="http://www.github.com/alexeses"><img src="https://github-readme-stats.vercel.app/api?username=alexeses&show_icons=true&hide=stars,prs,&count_private=true&title_color=84cc16&text_color=facc15&icon_color=ef4444&bg_color=22272e&hide_border=true&show_icons=true" alt="alexeses's GitHub stats" /></a>
-
-<a href="http://www.github.com/alexeses"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexeses&stroke=facc15&background=22272e&ring=84cc16&fire=84cc16&currStreakNum=facc15&currStreakLabel=84cc16&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexeses&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=GitHub Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexeses&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
