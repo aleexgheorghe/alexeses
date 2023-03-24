@@ -28,10 +28,10 @@ Self-taught and technology enthusiast. I enjoy learning new technologies to cont
 
 <a><img width="150" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/46347629/227374546-2f8d8e42-2a7a-4ae7-a082-f9a05be47168.png"></a>
 
-🌍 I am currently pursuing a Technical degree in **Application Development**.
-🔭 I am currently delving into **Python** and **Rust** to expand my skill set.
-👾 I possess experience in **Java**, **C**, **Networks**, **Unix**, **Docker**, and **Git**, and have successfully applied them in various projects.
-🛸 I am actively seeking opportunities to contribute to **Open Source projects** and collaborate with the community.
+- 🌍 I am currently pursuing a Technical degree in **Application Development**.
+- 🔭 I am currently delving into **Python** and **Rust** to expand my skill set.
+- 👾 I possess experience in **Java**, **C**, **Networks**, **Unix**, **Docker**, and **Git**, and have successfully applied them in various projects.
+- 🛸 I am actively seeking opportunities to contribute to **Open Source projects** and collaborate with the community.
 
 ### Contact methods 🤯:
 - 🧠 Connect with a driven junior programmer who is constantly learning by visiting my <a href="https://www.linkedin.com/in/alexghc/">LinkedIn profile.</a>
