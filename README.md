@@ -34,11 +34,11 @@ Self-taught and technology enthusiast. I enjoy learning new technologies to cont
 - 🛸 I am actively seeking opportunities to contribute to **Open Source projects** and collaborate with the community.
 
 ### Contact methods 🤯:
-- 🧠 Connect with a driven junior programmer who is constantly learning by visiting my LinkedIn profile.
+- 🧠 Engage with a passionate individual continuously expanding their knowledge. Check out my profile for more details.
 - 📟 For feedback, project proposals, and any inquiries, feel free to send a message to my email address: <acalin-b@student.42madrid.com>
 
 ### What I am currently doing 🥸: <img width="150" alt="memoji of Alex Gheorghe" align = "right" src="https://user-images.githubusercontent.com/46347629/227481270-fb274901-ad0a-4dd6-a006-e04f3c752292.png">
-If you have read my bio, you may have noticed that I am a self-taught individual with a strong desire to work on new projects that truly excite me, always striving to give my best effort. Currently, I am balancing my work with my studies at 42 Network, an innovative programming school, and pursuing a Technical degree in Application Development.
+If you have read my bio, you may have noticed that I am a self-taught individual with a strong desire to work on new projects that truly excite me, always striving to give my best effort. Currently, I am balancing my work with my studies at 42 Network, an innovative programming school.
 
 ### GitHub Stats 🤩
 <div align="center">
